@@ -3,6 +3,7 @@
 A parametric rocket fin can designed in Fusion and tested in CFD (SimScale), comparing drag for three fin designs after validating the setup against textbook cases.
 
 **Status:** in progress (Oct - Nov 2026)
+
 **Skills:** Fusion (parametric modelling), SimScale CFD (meshing, boundary conditions, k-omega SST), validation against hand calculations, mesh-independence study
 
 ---
